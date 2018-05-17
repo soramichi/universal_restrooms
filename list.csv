@@ -4,3 +4,6 @@ id,latitude,longitude,description_jp,description_en,type,is_universal
 3,35.620732,139.777260,科学未来館付近,Near Miraikan,public,1
 4,35.605658,139.734724,JR大井町駅南側,On the south of JR Oimachi Station,public,0
 5,35.619996,139.780546,青海中央埠頭公園,Aomi Central Warf Park,public,0
+6,35.667543,139.771653,築地駅2番出口,Tsukiji Station Exit No. 2,station,1
+7,31.593552,130.553460,中央公園（鹿児島市）,Chuo Park (Kagoshima City),public,1
+8,31.571762,130.546116,鹿児島大学総合研究博物館,Kagoshima University Museum,museum,1
